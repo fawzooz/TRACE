@@ -225,7 +225,7 @@ We welcome contributions to improve the TRACE Framework.
 
 ## 📄 License
 
-This framework template is provided under [specify license] to support the AI governance community. Please review the license terms before use in commercial implementations.
+This framework template is provided under MIT to support the AI governance community. Please review the license terms before use in commercial implementations.
 
 ## ⚠️ Disclaimer
 
@@ -240,7 +240,7 @@ The templates provided are examples and should not be considered as legal or com
 
 * **Framework Version**: 1.0.
 * **ISO 42001 Version**: 2023.
-* **Last Updated**: 1 jUL 2025.
+* **Last Updated**: 1 Jul 2025.
 * **Compatibility**: Organizations of all sizes implementing AI systems.
 
 ---
