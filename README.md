@@ -2,7 +2,7 @@
 
 ## 🎯 Overview
 
-This repository contains the **TRACE Framework**, a comprehensive AI Management System (AIMS) designed to support organizations in implementing ISO/IEC 42001:2023—the international standard for Artificial Intelligence Management Systems. The framework was developed as a practical companion to support readers of the book on ISO 42001:2023 implementation.
+This repository contains the **TRACE Framework**, a comprehensive AI Management System (AIMS) designed to support organizations in implementing ISO/IEC 42001:2023—the international standard for Artificial Intelligence Management Systems. The framework was developed as a practical companion to support readers of the book "AISEC Mastery: https://fawzooz.ai/en/books/aisec/".
 
 **Tagline:** Your Blueprint for Verifiable AI Governance.
 
